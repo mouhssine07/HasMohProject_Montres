@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HasMohProject.props" />
+</Project>
